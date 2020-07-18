@@ -9,13 +9,21 @@ To start the Script, please run the program cooresponding to your PC's speed, cl
 This program runs seperate from Minecraft, so it will not be updated regularly, or at all. The current release should work on all versions of Minecraft from 1.14 and above, as the commands are in the 1.14 format.
 
 Please check out myself and XisumaVoid on our social channels.
+
 XisumaVoid on YouTube: https://youtube.com/user/xisumavoid
+
 XisumaVoid on Twitter: https://twitter.com/xisumavoid
+
 XisumaVoid on Twitch: https://twitch.tv/xisuma
+
 XisumaVoid Official Website: https://xisumavoid.com
 
 NotNotJustin on YouTube: https://www.youtube.com/channel/UCF1CoH-IZ_U26YHeUI-B_lw
+
 NNJ, Too! on YouTube: https://www.youtube.com/channel/UCQ3_uavXKKNeCXqQgMT7u7A
+
 NotNotJustin on Twitter: https://twitter.com/_NotNotJustin
+
 NotNotJustin Official Website: https://www.notnotjustin.ml
+
 NotNotJustin Patreon (To help support the development of future programs?): https://patreon.com/NotNotJustin
