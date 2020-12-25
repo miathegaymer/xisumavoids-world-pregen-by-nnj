@@ -24,6 +24,6 @@ NNJ, Too! on YouTube: https://www.youtube.com/channel/UCQ3_uavXKKNeCXqQgMT7u7A
 
 NotNotJustin on Twitter: https://twitter.com/_NotNotJustin
 
-NotNotJustin Official Website: https://www.notnotjustin.ml
+NotNotJustin Official Website: https://www.notnotjustin.xyz
 
 NotNotJustin Patreon (To help support the development of future programs?): https://patreon.com/NotNotJustin
